@@ -1,0 +1,1 @@
+Lag en enkel web app som konsumerer [Rick and Morty API-et](https://rickandmortyapi.com/documentation/#rest) og lister ut alle karakterer med relevante episoder og steder, ala [dette](https://rickandmortyapi.com). Implementer gjerne paginering.
