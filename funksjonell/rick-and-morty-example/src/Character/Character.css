@@ -1,0 +1,11 @@
+.character {
+  display: flex;
+}
+
+.character img {
+  width: 200px;
+}
+
+.character ul {
+  list-style: none;
+}
